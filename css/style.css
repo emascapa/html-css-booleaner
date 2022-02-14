@@ -44,6 +44,10 @@
     padding: 10px;
 }
 
+h1 {
+    font-size: 50px;
+}
+
 .author {
     color: var(--blue2);
 }
