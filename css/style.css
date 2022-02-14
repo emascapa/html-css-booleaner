@@ -40,6 +40,10 @@
     padding: 10px;
 }
 
+#site_footer {
+    padding: 10px;
+}
+
 .author {
     color: var(--blue2);
 }
@@ -58,18 +62,35 @@
     background-color: var(--blue3);
 }
 
-#interest1 {
-    height: 200px;
-    background-image: url("../img/graph.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-    color: white;
+.highlight {
+    background-color: var(--yellow);
 }
 
-#interest2 {
-    height: 200px;
+#others {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.suggested {
+    color: var(--grey);
+}
+
+#interest1 {
+    margin-top: 10px;
+    height: 150px;
     background-image: url("../img/monitor.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
+    padding: 10px;
+}
+
+#interest2 {
+    margin-top: 10px;
+    height: 150px;
+    background-image: url("../img/graph.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
 }
