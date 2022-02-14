@@ -39,3 +39,17 @@
 #article_images {
     padding: 10px;
 }
+
+#article_body {
+    padding: 10px;
+}
+
+.blue_row {
+    background-color: var(--blue2);
+    color: white;
+    font-weight: bold;
+}
+
+.cyan_row {
+    background-color: var(--blue3);
+}
