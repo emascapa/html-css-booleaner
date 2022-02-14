@@ -24,3 +24,18 @@
     margin-left: 1%;
 }
 
+#article_title {
+    padding: 10px;
+}
+
+.author {
+    color: var(--blue2);
+}
+
+.article_info {
+    color: var(--grey);
+}
+
+#article_images {
+    padding: 10px;
+}
